@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+div{
+    display: flex;
+}
+#icon{
+  
+}
+h1{
+    color: orange;
+    font-family: Bungee-Spice;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: black;
+    height: 30px;
+    width: 100%;
+}
+li{
+    list-style-type: none;
+    text-align: center;
+    background:orange;
+    height: 30px;
+    display: flex;
+    flex-basis: 100%;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    gap: 2px;
+    padding: 0%;
+}
+footer{
+    background-color: orange;
+}
+#divfooter{
+    display: flex;
+}
+#ig{
+    
+}
