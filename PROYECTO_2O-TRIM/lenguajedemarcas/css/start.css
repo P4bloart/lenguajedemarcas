@@ -1,0 +1,20 @@
+body{
+    background-image: url(/lenguajedemarcas/imgs/pixel-jeff-clipc-s.gif);
+    background-size: cover;
+    background-repeat: no-repeat
+}
+div{
+    width: fit-content;
+    text-align: center;
+    background-color: black;
+    color: orange;
+    margin-top: 300px;
+    margin-left: 500px;
+    border: 50px;
+    font-size: large;
+}
+button{
+    background-color: black;
+    border-color: orange;
+    color: orange;
+}
